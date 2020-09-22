@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingresos-app-b042f": {
+      "hosting": {
+        "ingresEgresoApp": [
+          "ingresos-app-b042f"
+        ]
+      }
+    }
+  }
+}
